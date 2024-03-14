@@ -5,7 +5,7 @@ using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.EventArgs;
 
-namespace Amaterasu
+namespace SimpleBot
 {
     internal class Program
     {
